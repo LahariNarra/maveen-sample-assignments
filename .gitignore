@@ -1,0 +1,5 @@
+# This is a file where we need to mention which files git has to ignore.
+
+bin/
+target/
+
